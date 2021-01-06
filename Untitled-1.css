@@ -1,0 +1,82 @@
+
+        body 
+        {
+            font-family: Century Gothic;
+            font-display: swap;
+            margin: 0;
+        }
+        .header
+        {
+            font-size: 50px;
+            margin-top: 130px;
+        }
+        .Name-and-Description
+        {
+            padding-left: 80px;
+            width: 35%;
+            float: left;
+            margin-top: 100px;
+        }
+        .left-half-width
+        {
+            width: 40%;
+            padding-left: 100px;
+            float: left;
+            padding-top: 25px;
+        }
+        .button
+        {
+            border-radius: 15px;
+            width: 100px;
+            height: 50px;
+            background-image: linear-gradient(50deg, salmon, tomato);
+            margin-left: 40%;
+        }
+        a
+        {
+            color: white;
+            text-decoration: none;
+        }
+        .shadow-section
+        {
+            float: left;
+            background-color: lightgray;
+            height: 800px;
+            padding: 10px 50px;
+        }
+        .shadow-images
+        {
+            width: 29%;
+            height: 450px;
+            border-radius: 15px;
+            padding-left: 40px;
+            float: left;
+            padding-top: 25px;
+            background-color: whitesmoke;
+            margin-left: 20px;
+            box-shadow: 10px 10px 20px gray;
+        }
+        h3{
+            color: rgb(4, 5, 61);
+            font-family: oswald;
+            font-size: 20px;
+        }
+        .Work-inquiry
+        {
+            background-image: url('personal-website-main\shapes\Group_33094_1.png');
+            width: 100%;
+            float: left;
+            height: 700px;
+        }
+        .background-shape
+        {
+            color: bisque;
+        }
+        .chat
+        {
+            border-radius: 15px;
+            width: 150px;
+            height: 100px;
+            background-image: linear-gradient(50deg, salmon, tomato);
+            margin-left: 40%;
+        }
