@@ -56,27 +56,14 @@
             margin-left: 20px;
             box-shadow: 10px 10px 20px gray;
         }
-        h3{
+        h3
+        {
             color: rgb(4, 5, 61);
             font-family: oswald;
             font-size: 20px;
         }
-        .Work-inquiry
+        .final
         {
-            background-image: url('personal-website-main\shapes\Group_33094_1.png');
-            width: 100%;
-            float: left;
-            height: 700px;
+            
         }
-        .background-shape
-        {
-            color: bisque;
-        }
-        .chat
-        {
-            border-radius: 15px;
-            width: 150px;
-            height: 100px;
-            background-image: linear-gradient(50deg, salmon, tomato);
-            margin-left: 40%;
-        }
+        
